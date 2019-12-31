@@ -6,6 +6,17 @@
 #### About 2 weeks
 ## Language used
 #### Only 'Java'
+## Project configuration
+* #### File
+  * File_Control
+  * File_Read
+* #### Frame
+  * Frame_Infor
+  * Frame_JTableSet
+  * Frame_Lyrics
+  * Frame_Main
+* #### Launch
+  * Launch_SonPlayer
 ## Library used
 * #### jaudiotagger-2.2.0-20130321.142353-1.jar
   - Extract detailed information of music file using tag
