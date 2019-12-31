@@ -1,5 +1,9 @@
 ## SonPlayer
 #### This is a music player named after me. I made it myself to listen to music on my laptop.
+## Development period
+#### About 2 weeks
+## Developer
+#### imsoncod
 ## Language used
 #### Only 'Java'
 ## Library used
@@ -33,7 +37,3 @@
 * #### Update History screen     
      <img src = "https://user-images.githubusercontent.com/48934537/71613332-3d0f2b00-2be9-11ea-9a48-bfd3e183dbf5.png"
      width = "40%"></img>
-## Development period
-#### About 2 weeks
-## Developer
-#### imsoncod
