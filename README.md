@@ -1,9 +1,9 @@
 ## SonPlayer
 #### This is a music player named after me. I made it myself to listen to music on my laptop.
-## Development period
-#### About 2 weeks
 ## Developer
 #### imsoncod
+## Development period
+#### About 2 weeks
 ## Language used
 #### Only 'Java'
 ## Library used
