@@ -37,3 +37,5 @@
 * #### Update History screen     
      <img src = "https://user-images.githubusercontent.com/48934537/71613332-3d0f2b00-2be9-11ea-9a48-bfd3e183dbf5.png"
      width = "40%"></img>
+* #### WindowsIcon screen
+     ![image](https://user-images.githubusercontent.com/48934537/71613679-31246880-2beb-11ea-97ea-7d1136e17f8e.png)
