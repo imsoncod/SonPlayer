@@ -1,5 +1,5 @@
 ## SonPlayer
-#### This is a music player named after me. I made it myself to listen to music on my laptop.
+#### This is a music player named after me, I made it myself to listen to music on my laptop.
 ## Developer
 #### imsoncod
 ## Development period
