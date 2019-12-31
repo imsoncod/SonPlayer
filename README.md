@@ -18,5 +18,22 @@
 * #### Instant responsive search
 * #### Display music seconds status and gauge in JSlider
 * #### Get detailed information such as song name, artist, album image, time of music file from local and sort
+* #### Adjustable music list order
+* #### Window icon creation
+* #### Background playback possible with tray system support
 * #### Clean UI configuration with WindowBuilder
 ## Development screen
+* #### Main screen
+     ![image](https://user-images.githubusercontent.com/48934537/71613223-7c894780-2be8-11ea-8909-70567d2035a8.png)
+* #### Play music screen     
+     ![image](https://user-images.githubusercontent.com/48934537/71613260-b3f7f400-2be8-11ea-9e24-7b0518b453d3.png)
+* #### Lyrics screen
+     <img src = "https://user-images.githubusercontent.com/48934537/71613291-ec97cd80-2be8-11ea-9c75-faf1d3a2a781.png"
+     width = "30%"></img>
+* #### Update History screen     
+     <img src = "https://user-images.githubusercontent.com/48934537/71613332-3d0f2b00-2be9-11ea-9a48-bfd3e183dbf5.png"
+     width = "40%"></img>
+## Development period
+#### About 2 weeks
+## Developer
+#### imsoncod
