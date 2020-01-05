@@ -6,6 +6,8 @@
 #### About 2 weeks
 ## Language used
 #### Only 'Java'
+## Development tools
+#### Eclipse
 ## Project configuration
 * #### File
   * File_Control
